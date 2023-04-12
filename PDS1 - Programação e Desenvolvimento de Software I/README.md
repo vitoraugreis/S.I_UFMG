@@ -1,1 +1,1 @@
-
+Aqui serão encontrados todos os arquivos trabalhos na disciplina de Programação e Desenvolvimento de Software I (PDS1) que é trabalhada no primeiro semestre do curso de Sistemas de Informação na UFMG.
