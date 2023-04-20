@@ -69,9 +69,11 @@ int main(){
                     printf("3- %i nao eh um ano bissexto\n\n", a);
                 }
                 break;
+                
             case 0:
                 printf("Saindo...");
                 break;
+                
             default:
                 printf("Opcao invalida!\n\n");
                 break;
