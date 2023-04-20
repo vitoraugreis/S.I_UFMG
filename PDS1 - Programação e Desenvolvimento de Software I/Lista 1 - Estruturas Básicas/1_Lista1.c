@@ -1,4 +1,5 @@
 // Lista 1 - Estruturas Básicas
+// 31/03/2023
 
 #include <stdio.h>
 #include <math.h>
