@@ -1,3 +1,6 @@
+// Lista 2 - Procedimentos e Funções
+// 10/04/2023
+
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>
