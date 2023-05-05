@@ -1,4 +1,4 @@
-// Lista 5  Repetição
+// Lista 5 - Repetição
 // 05/05/2023
 
 #include <stdio.h>
