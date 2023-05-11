@@ -31,9 +31,9 @@ void mdc3(int a, int b, int c){
             a = b;
             b = resto;
         }
-    resto = a%c;
-    a = c;
-    c = resto;
+        resto = a%c;
+        a = c;
+        c = resto;
     }
     printf("%i\n", a);
 }
