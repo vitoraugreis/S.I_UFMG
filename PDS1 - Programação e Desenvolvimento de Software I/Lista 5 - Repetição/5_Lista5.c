@@ -167,4 +167,5 @@ int main(){
     dig(a);
     my_exp(a, b);
     crescente(a);
+    return 0;
 }
