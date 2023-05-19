@@ -15,8 +15,8 @@ int primo (int x){
 }
 
 void Questao1 (){
-	FILE *q1_primos;
-	int n, prim;
+    FILE *q1_primos;
+    int n, prim;
     prim = 0;
     printf("Insira a quantidade de numeros primos desejadas: ");
     scanf ("%i", &n);
@@ -34,8 +34,8 @@ void Questao1 (){
 }
 
 void Questao2(){
-	FILE *q2_numeros, *q2_primos;
-	int n;
+    FILE *q2_numeros, *q2_primos;
+    int n;
     q2_numeros = fopen("Q2_numeros.txt", "r + t");
     q2_primos = fopen("Q2_primos.txt", "w + t");
     if (q2_numeros != NULL && q2_primos != NULL){
@@ -54,8 +54,8 @@ void Questao2(){
 }
 
 void Questao3(){
-	FILE *q3_numeros, *q3_outros, *q3_primos;	
-	int n;
+    FILE *q3_numeros, *q3_outros, *q3_primos;	
+    int n;
     q3_numeros = fopen("Q3_numeros.txt", "r + t");
     q3_outros = fopen("Q3_outros.txt", "w + t");
     q3_primos = fopen("Q3_primos.txt", "w + t");
@@ -76,7 +76,7 @@ void Questao3(){
 }
 
 void Questao4(){
-	FILE *q4_numeros, *q4_resultado;
+    FILE *q4_numeros, *q4_resultado;
     float n, fun;
     q4_numeros = fopen("Q4_numeros.txt", "r + t");
     q4_resultado = fopen("Q4_resultado.txt", "w + t");
@@ -93,7 +93,7 @@ void Questao4(){
 }
 
 void Questao5(){
-	FILE *q5_numeros, *q5_funcao;
+    FILE *q5_numeros, *q5_funcao;
     float a, b, c, d, n, res;
     q5_numeros = fopen("Q5_numeros.txt", "r + t");
     q5_funcao = fopen("Q5_resultado.txt", "w + t");
