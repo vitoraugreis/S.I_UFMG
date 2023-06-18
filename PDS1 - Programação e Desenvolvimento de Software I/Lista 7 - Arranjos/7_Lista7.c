@@ -163,7 +163,7 @@ int main(){
 		printf("(3) Questao 3\n");
 		printf("(4) Questao 4\n");
 		printf("(5) Questao 5\n");
-        printf("(6) Questao 6\n");
+        	printf("(6) Questao 6\n");
 		printf("(0) Sair\n");
 		printf("---------------------\n");
 		printf("Insira a opcao desejada: ");
@@ -185,9 +185,9 @@ int main(){
 			case 5:
 				questao_5();
 				break;
-            case 6:
-                questao_6();
-                break;
+            		case 6:
+                		questao_6();
+                		break;
 			case 0:
 				printf("Saindo...\n");
 		}
