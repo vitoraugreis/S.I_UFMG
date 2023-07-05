@@ -1,0 +1,4 @@
+## PDS1 - Programação e Desenvolvimento de Software I
+Aqui serão encontrados todos os arquivos da disciplina de Programação e Desenvolvimento de Software I (PDS1), que é cursada no primeiro semestre do curso de Sistemas de Informação na UFMG. Os programas encontrados neste diretório podem não ser idênticos aos entregues ao professor. Em alguns casos, foram realizadas alterações e implementações adicionais de funcionalidades, como os menus.
+
+Alguns programas podem estar com uma identação com TABs extremamente grandes, não sei exatamente o porque, mas é por conta destes programas serem feitos inicialmente nos computadores da Universidade, onde usam um outro sistema operacional e alguns editores de textos meio estranhos. Então se ficar incomodado com algum código ou outro, ignore por favor. (falo isso porque eu fiquei incomodado ksksks)
