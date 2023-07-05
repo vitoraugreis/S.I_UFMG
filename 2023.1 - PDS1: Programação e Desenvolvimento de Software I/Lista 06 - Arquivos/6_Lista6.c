@@ -1,6 +1,5 @@
 // Lista 6 - Arquivos
 // 18/05/2023
-// Professor, caso esteja lendo isso, após fazer as listas, costumo fazer menus para navegação.
 
 #include <stdio.h>
 #include <stdlib.h>
